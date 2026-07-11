@@ -1,1 +1,197 @@
-test
+{
+    "version_servidor": "0.0.1",
+    "mods": [
+        {
+            "nombre": "Architectury 13.0.8 Fabric",
+            "archivo": "architectury-13.0.8-fabric.jar",
+            "url_descarga": "https://raw.githubusercontent.com/CriissH/Mods/refs/heads/main/architectury-13.0.8-fabric.jar",
+            "hash_md5": "702e92d09a4855c6c8aa9e738a48efa4"
+        },
+        {
+            "nombre": "Champions 1.0.6 1.21.1",
+            "archivo": "Champions-1.0.6-1.21.1.jar",
+            "url_descarga": "https://raw.githubusercontent.com/CriissH/Mods/refs/heads/main/Champions-1.0.6-1.21.1.jar",
+            "hash_md5": "3de5b344da9c583caa08847cd7a9e35d"
+        },
+        {
+            "nombre": "Chunky Fabric 1.4.23",
+            "archivo": "Chunky-Fabric-1.4.23.jar",
+            "url_descarga": "https://raw.githubusercontent.com/CriissH/Mods/refs/heads/main/Chunky-Fabric-1.4.23.jar",
+            "hash_md5": "2f9ea1108ade07fc89d8e75a9510163c"
+        },
+        {
+            "nombre": "Chunkyborder 1.2.18",
+            "archivo": "ChunkyBorder-1.2.18.jar",
+            "url_descarga": "https://raw.githubusercontent.com/CriissH/Mods/refs/heads/main/ChunkyBorder-1.2.18.jar",
+            "hash_md5": "fce7a90e49d8262b4b3997135bbd9036"
+        },
+        {
+            "nombre": "Classiccoins 1.21.1 Fabric 1.0.0",
+            "archivo": "classiccoins-1.21.1-fabric-1.0.0.jar",
+            "url_descarga": "https://raw.githubusercontent.com/CriissH/Mods/refs/heads/main/classiccoins-1.21.1-fabric-1.0.0.jar",
+            "hash_md5": "39498eed528b34dde3f192c58f3ee8cc"
+        },
+        {
+            "nombre": "Cloth Config 15.0.140 Fabric",
+            "archivo": "cloth-config-15.0.140-fabric.jar",
+            "url_descarga": "https://raw.githubusercontent.com/CriissH/Mods/refs/heads/main/cloth-config-15.0.140-fabric.jar",
+            "hash_md5": "a2c091b027ad6ba8e54b07020fd45884"
+        },
+        {
+            "nombre": "Clumps Fabric 1.21.1 19.0.0.1",
+            "archivo": "Clumps-fabric-1.21.1-19.0.0.1.jar",
+            "url_descarga": "https://raw.githubusercontent.com/CriissH/Mods/refs/heads/main/Clumps-fabric-1.21.1-19.0.0.1.jar",
+            "hash_md5": "8715713c6b63565a5eafb4c925275035"
+        },
+        {
+            "nombre": "Easyauth Mc1.21 3.4.3",
+            "archivo": "easyauth-mc1.21-3.4.3.jar",
+            "url_descarga": "https://raw.githubusercontent.com/CriissH/Mods/refs/heads/main/easyauth-mc1.21-3.4.3.jar",
+            "hash_md5": "e5a7d6cb4897350d45c820f102cc52d3"
+        },
+        {
+            "nombre": "Fabric Api 0.116.13+1.21.1",
+            "archivo": "fabric-api-0.116.13+1.21.1.jar",
+            "url_descarga": "https://raw.githubusercontent.com/CriissH/Mods/refs/heads/main/fabric-api-0.116.13+1.21.1.jar",
+            "hash_md5": "9a8805aac7af9efc41b4be9e311d0040"
+        },
+        {
+            "nombre": "Flowerymooblooms Fabric 3.0.3+Mc1.21.1",
+            "archivo": "flowerymooblooms-fabric-3.0.3+mc1.21.1.jar",
+            "url_descarga": "https://raw.githubusercontent.com/CriissH/Mods/refs/heads/main/flowerymooblooms-fabric-3.0.3+mc1.21.1.jar",
+            "hash_md5": "d614b2cf4712ad211017648ae9e0e9d5"
+        },
+        {
+            "nombre": "Forgeconfigapiport V21.1.6 1.21.1 Fabric",
+            "archivo": "ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric.jar",
+            "url_descarga": "https://raw.githubusercontent.com/CriissH/Mods/refs/heads/main/ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric.jar",
+            "hash_md5": "eba1a7f9d9976e983a2b9eb5e915e087"
+        },
+        {
+            "nombre": "Friendsandfoes Fabric 4.0.26+Mc1.21.1",
+            "archivo": "friendsandfoes-fabric-4.0.26+mc1.21.1.jar",
+            "url_descarga": "https://raw.githubusercontent.com/CriissH/Mods/refs/heads/main/friendsandfoes-fabric-4.0.26+mc1.21.1.jar",
+            "hash_md5": "a104bea5ec9a9964c9e8b3db9794227f"
+        },
+        {
+            "nombre": "Historystages Fabric 5.2.0 1.21.1 Fabric",
+            "archivo": "historystages-fabric-5.2.0-1.21.1-fabric.jar",
+            "url_descarga": "https://raw.githubusercontent.com/CriissH/Mods/refs/heads/main/historystages-fabric-5.2.0-1.21.1-fabric.jar",
+            "hash_md5": "ef67993e71c300d6fde74010fbbcee38"
+        },
+        {
+            "nombre": "Iris Fabric 1.8.14 Beta.1+Mc1.21.1",
+            "archivo": "iris-fabric-1.8.14-beta.1+mc1.21.1.jar",
+            "url_descarga": "https://raw.githubusercontent.com/CriissH/Mods/refs/heads/main/iris-fabric-1.8.14-beta.1+mc1.21.1.jar",
+            "hash_md5": "4399f0c3edfe2af7f61db3725fe5c751"
+        },
+        {
+            "nombre": "Lootr Fabric 1.21.1 1.11.37.121",
+            "archivo": "lootr-fabric-1.21.1-1.11.37.121.jar",
+            "url_descarga": "https://raw.githubusercontent.com/CriissH/Mods/refs/heads/main/lootr-fabric-1.21.1-1.11.37.121.jar",
+            "hash_md5": "f3ecc6c9f195d91f14b35f47de9b8fb4"
+        },
+        {
+            "nombre": "Luckperms Fabric 5.4.140",
+            "archivo": "LuckPerms-Fabric-5.4.140.jar",
+            "url_descarga": "https://raw.githubusercontent.com/CriissH/Mods/refs/heads/main/LuckPerms-Fabric-5.4.140.jar",
+            "hash_md5": "bf65dccc5ad31cd8384d94eb9500d4af"
+        },
+        {
+            "nombre": "Modernfix Fabric 5.25.1+Mc1.21.1",
+            "archivo": "modernfix-fabric-5.25.1+mc1.21.1.jar",
+            "url_descarga": "https://raw.githubusercontent.com/CriissH/Mods/refs/heads/main/modernfix-fabric-5.25.1+mc1.21.1.jar",
+            "hash_md5": "17260c894041b7b4a1b1f2fd1a8f1a8b"
+        },
+        {
+            "nombre": "Modmenu 11.0.4",
+            "archivo": "modmenu-11.0.4.jar",
+            "url_descarga": "https://raw.githubusercontent.com/CriissH/Mods/refs/heads/main/modmenu-11.0.4.jar",
+            "hash_md5": "b2b9c53a887c100f780708c4f36db6c4"
+        },
+        {
+            "nombre": "Placeholder Api 2.4.2+1.21",
+            "archivo": "placeholder-api-2.4.2+1.21.jar",
+            "url_descarga": "https://raw.githubusercontent.com/CriissH/Mods/refs/heads/main/placeholder-api-2.4.2+1.21.jar",
+            "hash_md5": "4de8568a088a276c94168514d625413d"
+        },
+        {
+            "nombre": "Platform Fabric 1.21.1 1.3.3",
+            "archivo": "Platform-fabric-1.21.1-1.3.3.jar",
+            "url_descarga": "https://raw.githubusercontent.com/CriissH/Mods/refs/heads/main/Platform-fabric-1.21.1-1.3.3.jar",
+            "hash_md5": "c5023c794d97255c94493ad53780dcdb"
+        },
+        {
+            "nombre": "Progression Reborn 1.21.1 V1.5.11",
+            "archivo": "progression-reborn-1.21.1-v1.5.11.jar",
+            "url_descarga": "https://raw.githubusercontent.com/CriissH/Mods/refs/heads/main/progression-reborn-1.21.1-v1.5.11.jar",
+            "hash_md5": "84e5e2354da05cddbf6fa7dd4c3b7a6a"
+        },
+        {
+            "nombre": "Reeses Sodium Options Fabric 2.2.0+Mc1.21.1",
+            "archivo": "reeses-sodium-options-fabric-2.2.0+mc1.21.1.jar",
+            "url_descarga": "https://raw.githubusercontent.com/CriissH/Mods/refs/heads/main/reeses-sodium-options-fabric-2.2.0+mc1.21.1.jar",
+            "hash_md5": "d33454e2d26da7b60ec5adc59e25952c"
+        },
+        {
+            "nombre": "Reliable_Advancements Fabric 1.21.1 4.0.2",
+            "archivo": "reliable_advancements-fabric-1.21.1-4.0.2.jar",
+            "url_descarga": "https://raw.githubusercontent.com/CriissH/Mods/refs/heads/main/reliable_advancements-fabric-1.21.1-4.0.2.jar",
+            "hash_md5": "4e90bd8624d569ee8557ba76fe970ffa"
+        },
+        {
+            "nombre": "Resourcefullib Fabric 1.21 3.0.12",
+            "archivo": "resourcefullib-fabric-1.21-3.0.12.jar",
+            "url_descarga": "https://raw.githubusercontent.com/CriissH/Mods/refs/heads/main/resourcefullib-fabric-1.21-3.0.12.jar",
+            "hash_md5": "89dac4248b76747800fbc00fa063825e"
+        },
+        {
+            "nombre": "Sodium Extra Fabric 0.9.1+Mc1.21.1",
+            "archivo": "sodium-extra-fabric-0.9.1+mc1.21.1.jar",
+            "url_descarga": "https://raw.githubusercontent.com/CriissH/Mods/refs/heads/main/sodium-extra-fabric-0.9.1+mc1.21.1.jar",
+            "hash_md5": "5786640028733477cc367cb116ab13dd"
+        },
+        {
+            "nombre": "Sodium Fabric 0.8.12+Mc1.21.1",
+            "archivo": "sodium-fabric-0.8.12+mc1.21.1.jar",
+            "url_descarga": "https://raw.githubusercontent.com/CriissH/Mods/refs/heads/main/sodium-fabric-0.8.12+mc1.21.1.jar",
+            "hash_md5": "4ee4e9d6d047e0bbefaf45deca603fa6"
+        },
+        {
+            "nombre": "Sodium Fabric 0.8.12 Beta.2+Mc1.21.1",
+            "archivo": "sodium-fabric-0.8.12-beta.2+mc1.21.1.jar",
+            "url_descarga": "https://raw.githubusercontent.com/CriissH/Mods/refs/heads/main/sodium-fabric-0.8.12-beta.2+mc1.21.1.jar",
+            "hash_md5": "25f4e0fbc197572e4e8c2ff78f1b6176"
+        },
+        {
+            "nombre": "Spuds Shops 1.21.1 1.9.0",
+            "archivo": "spuds-shops-1.21.1-1.9.0.jar",
+            "url_descarga": "https://raw.githubusercontent.com/CriissH/Mods/refs/heads/main/spuds-shops-1.21.1-1.9.0.jar",
+            "hash_md5": "d47413db92c6fb8671162de11ec4395e"
+        },
+        {
+            "nombre": "Vanillabackport Fabric 1.21.1 1.1.7.10",
+            "archivo": "VanillaBackport-fabric-1.21.1-1.1.7.10.jar",
+            "url_descarga": "https://raw.githubusercontent.com/CriissH/Mods/refs/heads/main/VanillaBackport-fabric-1.21.1-1.1.7.10.jar",
+            "hash_md5": "45d17963d8b43aa00251e422861b86e3"
+        },
+        {
+            "nombre": "Voicechat Fabric 1.21.1 2.6.20",
+            "archivo": "voicechat-fabric-1.21.1-2.6.20.jar",
+            "url_descarga": "https://raw.githubusercontent.com/CriissH/Mods/refs/heads/main/voicechat-fabric-1.21.1-2.6.20.jar",
+            "hash_md5": "eceef4cce4351ac0180ddeb125899a43"
+        },
+        {
+            "nombre": "Worldedit Mod 7.3.8",
+            "archivo": "worldedit-mod-7.3.8.jar",
+            "url_descarga": "https://raw.githubusercontent.com/CriissH/Mods/refs/heads/main/worldedit-mod-7.3.8.jar",
+            "hash_md5": "f5d6f09ca5c4b1958780d01a099b779d"
+        },
+        {
+            "nombre": "Yet_Another_Config_Lib_V3 3.8.2+1.21.1 Fabric",
+            "archivo": "yet_another_config_lib_v3-3.8.2+1.21.1-fabric.jar",
+            "url_descarga": "https://raw.githubusercontent.com/CriissH/Mods/refs/heads/main/yet_another_config_lib_v3-3.8.2+1.21.1-fabric.jar",
+            "hash_md5": "aadf11f5a793296be7c195e1ca388492"
+        }
+    ]
+}
