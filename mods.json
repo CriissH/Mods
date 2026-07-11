@@ -1,5 +1,5 @@
 {
-    "version_servidor": "0.0.1",
+    "version_servidor": "0.0.2",
     "mods": [
         {
             "nombre": "Architectury 13.0.8 Fabric",
@@ -42,6 +42,12 @@
             "archivo": "Clumps-fabric-1.21.1-19.0.0.1.jar",
             "url_descarga": "https://raw.githubusercontent.com/CriissH/Mods/refs/heads/main/Clumps-fabric-1.21.1-19.0.0.1.jar",
             "hash_md5": "8715713c6b63565a5eafb4c925275035"
+        },
+        {
+            "nombre": "Comforts Fabric 9.0.5+1.21.1",
+            "archivo": "comforts-fabric-9.0.5+1.21.1.jar",
+            "url_descarga": "https://raw.githubusercontent.com/CriissH/Mods/refs/heads/main/comforts-fabric-9.0.5+1.21.1.jar",
+            "hash_md5": "609e01638d5b6f2d864ee299e524395d"
         },
         {
             "nombre": "Easyauth Mc1.21 3.4.3",
@@ -110,6 +116,12 @@
             "hash_md5": "b2b9c53a887c100f780708c4f36db6c4"
         },
         {
+            "nombre": "Owo Lib 0.13.0 Alpha.15+1.21",
+            "archivo": "owo-lib-0.13.0-alpha.15+1.21.jar",
+            "url_descarga": "https://raw.githubusercontent.com/CriissH/Mods/refs/heads/main/owo-lib-0.13.0-alpha.15+1.21.jar",
+            "hash_md5": "a3eb2ecafeb4bc1fb453b13cb43a12c1"
+        },
+        {
             "nombre": "Placeholder Api 2.4.2+1.21",
             "archivo": "placeholder-api-2.4.2+1.21.jar",
             "url_descarga": "https://raw.githubusercontent.com/CriissH/Mods/refs/heads/main/placeholder-api-2.4.2+1.21.jar",
@@ -174,6 +186,12 @@
             "archivo": "VanillaBackport-fabric-1.21.1-1.1.7.10.jar",
             "url_descarga": "https://raw.githubusercontent.com/CriissH/Mods/refs/heads/main/VanillaBackport-fabric-1.21.1-1.1.7.10.jar",
             "hash_md5": "45d17963d8b43aa00251e422861b86e3"
+        },
+        {
+            "nombre": "Vinurl 2.4.0+Mc1.21.1",
+            "archivo": "vinurl-2.4.0+mc1.21.1.jar",
+            "url_descarga": "https://raw.githubusercontent.com/CriissH/Mods/refs/heads/main/vinurl-2.4.0+mc1.21.1.jar",
+            "hash_md5": "47017d98925eb66dc466b0d02acace58"
         },
         {
             "nombre": "Voicechat Fabric 1.21.1 2.6.20",
