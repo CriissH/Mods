@@ -1,0 +1,17 @@
+{
+    "version_servidor": "0.0.5",
+    "instalador": {
+        "tipo": "fabric",
+        "url": "https://raw.githubusercontent.com/CriissH/Mods/main/launcher/fabric-installer.jar",
+        "nombre_archivo": "fabric-installer.jar",
+        "carpeta_esperada": "fabric-loader-0.19.3-1.21.1"
+    },
+    "mods": [
+        {
+            "nombre": "[Gemini Server 1.21.1]",
+            "archivo": "[GEMINI-SERVER-1.21.1].jar",
+            "url_descarga": "https://raw.githubusercontent.com/CriissH/Mods/main/mods/[GEMINI-SERVER-1.21.1].jar",
+            "hash_md5": "499f6897d1837516680f3114072d8106e11c9adcd933fe5cf051b551089b0c99"
+        }
+    ]
+}
