@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "updated": "2026-11-14T00:50:27Z",
+  "badges": {
+    "admin": {
+      "name": "Administrador",
+      "description": "Administra el servidor",
+      "color": "#e8806a",
+      "symbol": "A"
+    },
+    "mod": {
+      "name": "Moderador",
+      "description": "Modera el servidor",
+      "color": "#5aa9e6",
+      "symbol": "M"
+    },
+    "first": {
+      "name": "1.er lugar",
+      "color": "#f2c94c",
+      "symbol": "1",
+      "description": "Primer puesto en la competencia de puntos del servidor anterior"
+    },
+    "second": {
+      "name": "2.º lugar",
+      "color": "#c9d1d9",
+      "symbol": "2",
+      "description": "Segundo puesto en la competencia de puntos del servidor anterior"
+    },
+    "third": {
+      "name": "3.er lugar",
+      "color": "#cd8a52",
+      "symbol": "3",
+      "description": "Tercer puesto en la competencia de puntos del servidor anterior"
+    },
+    "veteran": {
+      "name": "Veterano",
+      "description": "Participó en servidores previos",
+      "color": "#6fbf4a",
+      "symbol": "V"
+    }
+  },
+  "players": {
+    "SrFex01": [
+      "mod",
+      "veteran"
+    ]
+  }
+}
