@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-14T01:27:45Z",
+  "updated": "2026-11-14T04:26:47Z",
   "badges": {
     "admin": {
       "name": "Administrador",
@@ -41,11 +41,11 @@
   },
   "players": {
     "SrFex01": [
-      "admin",
       "mod",
-      "first",
-      "second",
-      "third",
+      "veteran"
+    ],
+    "TuVieja112358": [
+      "admin",
       "veteran"
     ]
   }
